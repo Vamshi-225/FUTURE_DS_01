@@ -30,11 +30,6 @@ The main goal of this project was to transform raw e-commerce sales data into a 
 
 ---
 
-## 📊 Dashboard Preview
-![Dashboard Screenshot](Dashboard.png)
-
----
-
 ## 🔍 Insights Gained
 - The **UK** is the top-performing country in terms of sales revenue.
 - **July 2011** recorded the highest sales volume.
@@ -43,4 +38,3 @@ The main goal of this project was to transform raw e-commerce sales data into a 
 
 ---
 
-## 📂 Repository Structure
